@@ -45,3 +45,27 @@
 **Alphonse Maria Mucha Chinese ancient architecture science fiction**
 
 ![](https://github.com/Alessa0/Midjourney_Prompt_Lib/blob/main/images/Alphonse_Maria_Mucha_Chinese_ancient_architecture_science_fi_73e303ae-f8e3-4c7c-8bb6-43cdf2c5be8b.png)
+
+---
+
+**giant rusty robot spit fire aganist a tank in a wasteland in the style of Norman Rockwell** 
+
+![](https://github.com/Alessa0/Midjourney_Prompt_Lib/blob/main/images/kudegalinha_giant_rusty_robot_spit_fire_aganist_a_tank_in_a_was_6622a0fb-3acf-472b-a6ff-59e185cec921.png)
+
+---
+
+**An extremely detailed, + labeled, davinci style, old blueprint of gun**
+
+![](https://github.com/Alessa0/Midjourney_Prompt_Lib/blob/main/images/MuluMar_An_extremely_detailed__labeled_davinci_style_old_bluepr_f646f804-696c-41a1-9f99-7dbf192f9070.png)
+
+---
+
+**A wizard  has a necklace with the letters B, V engraved on it**
+
+![](https://github.com/Alessa0/Midjourney_Prompt_Lib/blob/main/images/Purbur_A_wizard_has_a_necklace_with_the_letters_B_V_engraved_on_ecac85c7-fb99-46e1-9b5b-65fc7a1296a9.png)
+
+---
+
+**a blonde girl coming out of the sea in a deserted beach, vintage**
+
+![](https://github.com/Alessa0/Midjourney_Prompt_Lib/blob/main/images/nachooo_a_blonde_girl_coming_out_of_the_sea_in_a_deserted_beach_23cbc576-75fc-4ee6-bba4-38eb2bf132ee.png)
